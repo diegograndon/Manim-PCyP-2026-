@@ -10,7 +10,7 @@
       <video src="https://github.com/user-attachments/assets/53826148-387b-45e8-8f12-bb231ed36222" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/65ac600e-bf54-4a7b-9f93-3f56fed73fb0" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
