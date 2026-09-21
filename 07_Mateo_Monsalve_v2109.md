@@ -2,6 +2,7 @@
 
 
 
+
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -26,7 +27,8 @@
 "></video>
     </td>
     <td width="16%" align="center">
-      <video src=""></video>
+      <video src="https://github.com/user-attachments/assets/39497d54-8753-4aa7-96d4-1e7425b4b1ab
+"></video>
     </td>
   </tr>
 
