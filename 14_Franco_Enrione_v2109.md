@@ -1,5 +1,13 @@
 
 
+
+
+
+
+
+
+
+
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -10,10 +18,12 @@
       <video src="https://github.com/user-attachments/assets/03a6c618-ba26-47f8-b983-7230227edb50" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/de03856d-d190-45c7-810c-e4635cc12974
+" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/bdf71db4-7fd3-4db2-a792-0b2d76e86193
+" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
