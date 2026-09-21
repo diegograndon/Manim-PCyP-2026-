@@ -5,7 +5,7 @@
       <video src= "https://github.com/user-attachments/assets/982be03e-d805-4c90-bb46-618d4559cc0b" controls width"="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src=="100%"></video>
+      <video src ="https://github.com/user-attachments/assets/85f5638e-ec48-4e20-9bdf-49df8109d73c" controls width "="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src= controls width="100%"></video>
