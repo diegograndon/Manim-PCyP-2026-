@@ -1,9 +1,5 @@
 
 
-https://github.com/user-attachments/assets/6d67f44d-60ba-4281-8307-b0d8f7c3fc64
-
-
-
 <table>
   <!-- FILA 1 -->
   <tr>
