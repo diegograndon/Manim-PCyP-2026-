@@ -1,6 +1,10 @@
 
 
 
+
+
+
+
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -9,10 +13,12 @@
 " controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/1cd25128-05b5-4596-8e3d-ff1d5dace9ea
+" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/877ca815-7879-4ab5-98f8-75405f5205a7
+" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
