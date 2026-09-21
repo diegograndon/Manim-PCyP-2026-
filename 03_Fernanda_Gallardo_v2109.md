@@ -4,22 +4,23 @@
   <!-- FILA 1 -->
   <tr>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/277b5ebe-f37d-4fb2-b3ce-42677c2a39f4" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/0c7a5006-3f43-434a-b549-55b4887869d9" 
+    controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/99f5b795-4d9a-43d5-9182-834b6a10f017" controls width="100%"></video>
+      <video src="" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/99755b76-2392-41c6-9977-44f3df583d04" controls width="100%"></video>
+      <video src="" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="NUEVO_ENLACE_4" controls width="100%"></video>
+      <video src="" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="NUEVO_ENLACE_5" controls width="100%"></video>
+      <video src="" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="NUEVO_ENLACE_6" controls width="100%"></video>
+      <video src="" controls width="100%"></video>
     </td>
   </tr>
 
