@@ -5,7 +5,6 @@
 
 
 
-https://github.com/user-attachments/assets/addcbe36-aa27-4bf2-a796-f4807b18800c
 
 
 
@@ -25,7 +24,7 @@ https://github.com/user-attachments/assets/addcbe36-aa27-4bf2-a796-f4807b18800c
 " controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/addcbe36-aa27-4bf2-a796-f4807b18800c
+      <video src="
 " controls width="100%"></video>
     </td>
     <td width="16%" align="center">
