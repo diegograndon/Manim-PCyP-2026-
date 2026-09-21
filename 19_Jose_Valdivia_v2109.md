@@ -2,12 +2,6 @@
 
 
 
-https://github.com/user-attachments/assets/15e10298-18c2-4330-9906-a447c9f0d15a
-
-
-
-
-
 <table>
   <!-- FILA 1 -->
   <tr>
