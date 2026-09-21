@@ -10,7 +10,7 @@
 "></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/96df7415-391c-4ac2-bbf7-85a3788f80a0
+      <video src="https://github.com/user-attachments/assets/66540b4c-de56-4585-9643-7a5562368455
 " controls width="100%"></video>
     </td>
     <td width="16%" align="center">
