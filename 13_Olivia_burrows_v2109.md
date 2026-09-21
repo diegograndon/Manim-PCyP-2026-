@@ -14,7 +14,6 @@
     </td>
     <td width="16%" align="center">
       <video src="%%manim -r 540,960 -v WARNING MiVideo
-
 class MiVideo(Scene):
     def construct(self):
         self.play(Create(Square()))
