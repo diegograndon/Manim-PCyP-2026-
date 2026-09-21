@@ -28,10 +28,7 @@
 
 
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/b11bfff2-dcfb-48ab-a1ee-dfa8ad43dcbc
-
-
-" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/b11bfff2-dcfb-48ab-a1ee-dfa8ad43dcbc" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="https://github.com/user-attachments/assets/965cb425-704a-4176-91a6-de2135593525" controls width="100%"></video>
