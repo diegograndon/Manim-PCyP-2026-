@@ -4,15 +4,13 @@
   <!-- FILA 1 -->
   <tr>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/efb1fccc-f314-4604-948b-be736267e384" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/6f2e3d42-2369-46f8-b412-c18614c79f69" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/ff043585-9926-48ce-85a4-b44a85c17eca
-" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/03a6c618-ba26-47f8-b983-7230227edb50" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/0b1c8a37-f36a-4744-bcdf-5795c5b66963
-" controls width="100%"></video>
+      <video src="" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
