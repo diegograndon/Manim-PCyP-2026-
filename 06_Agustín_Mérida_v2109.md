@@ -8,6 +8,10 @@
 
 
 
+
+
+
+
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -21,16 +25,12 @@
       <video src="https://github.com/user-attachments/assets/9e202a35-2c68-4c53-824a-9b2efde2549e" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/d0679a24-9a61-45d2-b1a6-f42e8c5e7175" controls width="100%"></video>
-
-
-
+      <video src="https://github.com/user-attachments/assets/d0679a24-9a61-45d2-b1a6-f42e8c5e7175" controls width="100%"></video></td>
+    <td width="16%" align="center">
+      <video src="https://github.com/user-attachments/assets/39422e6a-7689-415e-b325-c9e9e115a8e1" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
-    </td>
-    <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/91b7fb28-148a-479e-9863-ec3b7bb137bc" controls width="100%"></video>
     </td>
   </tr>
 
