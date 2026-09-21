@@ -10,6 +10,12 @@
 
 
 
+
+
+
+
+
+
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -23,10 +29,12 @@
       <video src="https://github.com/user-attachments/assets/e44fdce2-3915-448d-8f7d-f5cf4f50258f" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/dee53c0e-8b8a-43c9-9dac-65aa10de59be
+" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/173a99a5-b61e-481e-ab7b-8166936fac1f
+" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
