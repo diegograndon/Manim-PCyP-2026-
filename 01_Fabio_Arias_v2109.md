@@ -49,8 +49,7 @@
       <video src="https://github.com/user-attachments/assets/f6405345-0766-43b0-aec2-55f99d464073" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/61395d23-d7d4-48e6-9a55-45807e87dd18" controls width="100%"></video>
-      
+      <video src="https://github.com/user-attachments/assets/61395d23-d7d4-48e6-9a55-45807e87dd18" controls width="100%"></video      
     </td>
   </tr>
   <tr>
