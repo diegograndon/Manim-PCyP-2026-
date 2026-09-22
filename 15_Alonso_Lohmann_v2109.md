@@ -1,8 +1,4 @@
-
-
-https://github.com/user-attachments/assets/df179fa8-8f7e-4965-ae94-fb9a32326f65
-
-<table>
+table>
   <!-- FILA 1 -->
   <tr>
     <td width="16%" align="center">
