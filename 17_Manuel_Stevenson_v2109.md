@@ -44,6 +44,27 @@
       <video src="https://github.com/user-attachments/assets/9787d98a-f0cc-4c2b-a994-60a13c1bd76c" controls width="100%"></video>
     </td>
   </tr>
+    <!-- FILA 3 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
+  <tr>
+    <td width="16%" align="center">
+      <video src="https://github.com/user-attachments/assets/ff7d307a-1030-4d64-9c0b-e6dd1cead3de" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+  </tr>
 </table>
 
 
