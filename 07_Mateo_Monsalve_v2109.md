@@ -56,5 +56,32 @@
 "></video>
     </td>
   </tr>
+    <!-- FILA 3 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
+  <tr>
+    <td width="16%" align="center">
+      <video src="https://github.com/user-attachments/assets/4d90a9dd-1b83-4241-b8bd-cb494274bb54
+"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="https://github.com/user-attachments/assets/63d0f2d7-fff0-4e11-99a1-6a104fbf7b42
+"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="https://github.com/user-attachments/assets/1456b645-39de-4e68-9879-7f1c1cd6808a
+"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="https://github.com/user-attachments/assets/0ad523e2-a77b-4e90-947a-a5597e38cca0
+"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="https://github.com/user-attachments/assets/ffcf7ff4-2901-4b8c-96e5-a1beadc03ccb
+"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="https://github.com/user-attachments/assets/2dba7b01-5028-454d-8129-b2781dc0e4c5
+"></video>
+    </td>
+  </tr>
 </table>
 
