@@ -42,7 +42,7 @@
       <video src="https://github.com/user-attachments/assets/cd7d5221-4c84-45cd-88b0-f668f1a94eba" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/d2d1559a-bb11-4f53-b565-acc66cabedd6" controls width="100%"></video>
     </td>
   </tr>
 </table>
