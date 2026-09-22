@@ -3,8 +3,6 @@
 
 
 
-
-
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -40,13 +38,13 @@
       <video src="https://github.com/user-attachments/assets/5d1562f2-8f01-4b98-9596-cadead4889d6" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/71e4702e-b6f2-439e-8753-2de6a68434c3" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/fdcfdd8d-7e14-4174-9c7a-c415b474822a" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/127478fc-df86-4fc1-9bc0-fc5f3556ff86" controls width="100%"></video>
     </td>
   </tr>
 </table>
