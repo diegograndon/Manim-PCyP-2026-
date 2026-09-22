@@ -14,7 +14,7 @@ table>
       <video src="https://github.com/user-attachments/assets/140f866d-5107-4434-83ac-b0ea850271ab" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src= controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/140f866d-5107-4434-83ac-b0ea850271ab" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src=  controls width="100%"></video>
