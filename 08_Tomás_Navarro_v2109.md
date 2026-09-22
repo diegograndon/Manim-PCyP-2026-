@@ -52,7 +52,7 @@
       <video src="https://github.com/user-attachments/assets/dc41326a-7bf7-4be3-b3c0-48da3f0e593f" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/e0a08259-3a43-4c71-9b2c-b41977c263a2" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/6b037ae7-26a2-4d8f-832f-b6d31ceda166" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="https://github.com/user-attachments/assets/1389ccc7-c324-48f3-b452-03a6502c25c9" controls width="100%"></video>
