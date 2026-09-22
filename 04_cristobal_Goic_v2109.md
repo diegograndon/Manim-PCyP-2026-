@@ -29,7 +29,7 @@
   <!-- FILA 2 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
   <tr>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/b5c8ea26-8f8c-4abf-a394-dd16090b9cd7" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
@@ -48,5 +48,8 @@
     </td>
   </tr>
 </table>
+
+
+
 
 
