@@ -3,6 +3,8 @@
 
 
 
+
+
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -32,10 +34,10 @@
       <video src="https://github.com/user-attachments/assets/b5c8ea26-8f8c-4abf-a394-dd16090b9cd7" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/8a76eff7-9fd5-4f02-8f5b-d7f844c09498" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/5d1562f2-8f01-4b98-9596-cadead4889d6" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
