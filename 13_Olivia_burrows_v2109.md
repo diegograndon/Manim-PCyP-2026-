@@ -29,7 +29,7 @@
       <video src="https://github.com/user-attachments/assets/68f79cc9-9a87-4e5d-874c-d8aa616b3266" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="NUEVO_ENLACE_2" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/248ab83e-7b53-4d56-aeff-1a9df81fcd4c" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="NUEVO_ENLACE_3" controls width="100%"></video>
