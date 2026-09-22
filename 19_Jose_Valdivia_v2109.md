@@ -59,7 +59,7 @@
     </td>
   </tr>
 
-    <tr>
+  <tr>
     <td width="16%" align="center">
       <video src="https://github.com/user-attachments/assets/42cb7ae8-0dc7-4f83-89a8-5b68beff082a" controls width="100%"></video>
     </td>
