@@ -20,6 +20,9 @@
 
 
 
+
+
+
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -49,7 +52,8 @@
   <!-- FILA 2 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
   <tr>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/97f3a4f5-e4a6-4c19-906b-108dac86a3dd
+" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
