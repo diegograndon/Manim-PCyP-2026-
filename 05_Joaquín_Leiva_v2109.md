@@ -3,23 +3,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -49,13 +32,10 @@
   <!-- FILA 2 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
   <tr>
     <td width="16%" align="center">
-      <video src="
-https://github.com/user-attachments/assets/2631450c-999b-4518-8491-238250b810a9
-" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/2631450c-999b-4518-8491-238250b810a9" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/35d4d79e-8f52-4419-8691-3f69b4b6140a
-" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/35d4d79e-8f52-4419-8691-3f69b4b6140a" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="https://github.com/user-attachments/assets/0485d3a8-5015-46b7-a167-2c277b9fa3b4" controls width="100%"></video>
