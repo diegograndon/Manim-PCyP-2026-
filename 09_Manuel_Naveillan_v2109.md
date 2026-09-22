@@ -33,7 +33,7 @@
       <video src="https://github.com/user-attachments/assets/9948300d-8d7e-4f61-98b1-1f4f5e1bf4d0" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/7ce08a39-def0-4706-bf0b-76da51d495cb" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
