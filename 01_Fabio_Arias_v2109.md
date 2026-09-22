@@ -54,7 +54,7 @@
   </tr>
   <tr>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/d5abee7a-56e4-473f-89b2-7656bf27be4d" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/ccb47576-dc86-4521-b8ef-a7f4612b728e"100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="https://github.com/user-attachments/assets/04af1343-18d6-4782-90a1-d115b0c4f5e5" controls width="100%"></video>
