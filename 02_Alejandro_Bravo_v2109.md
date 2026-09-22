@@ -1,4 +1,5 @@
 
+
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -46,16 +47,16 @@
     
   <tr>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/25496dd7-5dd1-40f0-95dd-ec140eb6fe54" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/1a4d57bd-b01c-4ae8-84db-8b8fd1f7ec84" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/7fbf3ce0-a488-49b0-81c5-b032f7d1efdc" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/e1313292-e799-4779-aab1-9d2b108110b3" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
