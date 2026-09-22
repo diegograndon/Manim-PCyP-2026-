@@ -19,7 +19,7 @@
       <video src="https://github.com/user-attachments/assets/1f2480cb-db86-40b3-aaf6-54193bd64997" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="NUEVO_ENLACE_6" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/0a027bf0-d514-4ae2-b7e5-587dd2ae4db3" controls width="100%"></video>
     </td>
   </tr>
 
