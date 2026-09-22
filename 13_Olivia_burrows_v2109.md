@@ -26,7 +26,7 @@
   <!-- FILA 2 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
   <tr>
     <td width="16%" align="center">
-      <video src="NUEVO_ENLACE_1" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/68f79cc9-9a87-4e5d-874c-d8aa616b3266" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="NUEVO_ENLACE_2" controls width="100%"></video>
