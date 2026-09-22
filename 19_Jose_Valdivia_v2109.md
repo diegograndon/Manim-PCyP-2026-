@@ -1,5 +1,3 @@
-
-
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -23,7 +21,7 @@
     </td>
   </tr>
 
-  <!-- FILA 2 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
+  <!-- FILA 2 -->
   <tr>
     <td width="16%" align="center">
       <video src="https://github.com/user-attachments/assets/7bd8fb4d-ffe5-493a-bfb0-5386cb4360cd" controls width="100%"></video>
@@ -45,6 +43,7 @@
     </td>
   </tr>
 
+  <!-- FILA 3 -->
   <tr>
     <td width="16%" align="center">
       <video src="https://github.com/user-attachments/assets/42cb7ae8-0dc7-4f83-89a8-5b68beff082a" controls width="100%"></video>
