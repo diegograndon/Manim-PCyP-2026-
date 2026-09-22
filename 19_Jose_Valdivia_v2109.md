@@ -2,6 +2,18 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -49,19 +61,19 @@
 
     <tr>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/42cb7ae8-0dc7-4f83-89a8-5b68beff082a" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="https://github.com/user-attachments/assets/ee4fa849-58dd-40ac-90aa-ee7be7a94a62" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="https://github.com/user-attachments/assets/ed389359-7940-4a70-b0cb-90a9b366b638" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
-    </td>
-    <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
-    </td>
-    <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/e4f8e4b7-0bdb-459c-a556-f5fd9de3cfb2" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
