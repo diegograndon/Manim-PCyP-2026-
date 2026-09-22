@@ -59,28 +59,26 @@
     <!-- FILA 3 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
   <tr>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/4d90a9dd-1b83-4241-b8bd-cb494274bb54
+      <video src="https://github.com/user-attachments/assets/0498dd55-b50b-4a9c-b3d6-2f0d3b7577ba
 "></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/63d0f2d7-fff0-4e11-99a1-6a104fbf7b42
+      <video src="https://github.com/user-attachments/assets/3e9c6a5b-3711-4b6e-8556-4f0e9aa038f6
 "></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/1456b645-39de-4e68-9879-7f1c1cd6808a
+      <video src="https://github.com/user-attachments/assets/958dc8a0-f17f-4c5c-88b4-fdd7993e711b
 "></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/0ad523e2-a77b-4e90-947a-a5597e38cca0
+      <video src="https://github.com/user-attachments/assets/e16b9f0b-ca14-4386-900a-30ae4f565a20
 "></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/ffcf7ff4-2901-4b8c-96e5-a1beadc03ccb
-"></video>
+      <video src=""></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/2dba7b01-5028-454d-8129-b2781dc0e4c5
-"></video>
+      <video src=""></video>
     </td>
   </tr>
 </table>
