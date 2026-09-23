@@ -48,16 +48,16 @@
   <!-- FILA 3 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
   <tr>
     <td width="16%" align="center">
-      <video src=""></video>
+      <video src="https://github.com/user-attachments/assets/a1b4f0f2-38cd-4814-a1ac-8d0d2f8de6f6"></video>
     </td>
     <td width="16%" align="center">
-      <video src=""></video>
+      <video src="https://github.com/user-attachments/assets/75bf1e21-29eb-481e-aed5-eb17f4689878"></video>
     </td>
     <td width="16%" align="center">
-      <video src=""></video>
+      <video src="https://github.com/user-attachments/assets/82c0923e-1665-43f6-ab37-ac1459f4237d"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/e217e8c7-13f3-470c-8349-bd881d3eb6de" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
