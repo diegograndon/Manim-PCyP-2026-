@@ -5,6 +5,12 @@
 
 
 
+
+
+
+
+
+
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -67,10 +73,12 @@
 " controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/627ce8b5-da4e-48ef-88d9-c09862e58d62
+" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/a274445a-dace-46e3-a9d2-b542864b84ba
+" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
