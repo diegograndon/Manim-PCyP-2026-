@@ -1,4 +1,10 @@
 
+
+
+
+
+
+
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -55,10 +61,12 @@
    <!-- FILA 3 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
   <tr>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/16e9d386-457b-4987-bb41-d3ae28302116
+" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/3d198213-08c3-461e-9b9e-3bee651d0711
+" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
