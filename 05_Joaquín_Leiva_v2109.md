@@ -4,13 +4,6 @@
 
 
 
-
-
-
-
-
-
-
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -58,7 +51,7 @@
       <video src="https://github.com/user-attachments/assets/59d3ea62-e618-452c-8abb-b130d8454c5e" controls width="100%"></video>
     </td>
   </tr>
-</table>
+
 
   
   <!-- FILA 3 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
