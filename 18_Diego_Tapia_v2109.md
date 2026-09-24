@@ -48,7 +48,7 @@
       <video src="https://github.com/user-attachments/assets/630c8d6d-8732-4bba-ba38-4b85b46d6566" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/7eb0d9b0-d963-4b19-9519-e0a06f977596" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
