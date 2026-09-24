@@ -1,4 +1,4 @@
-table>
+<table>
   <!-- FILA 1 -->
   <tr>
     <td width="16%" align="center">
