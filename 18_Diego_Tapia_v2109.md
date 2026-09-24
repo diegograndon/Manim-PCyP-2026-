@@ -43,7 +43,6 @@
       <video src="https://github.com/user-attachments/assets/6601334d-82df-4c41-9452-945f2c8648ff" controls width="100%"></video>
     </td>
   </tr>
-</table>
   <tr>
     <td width="16%" align="center">
       <video src="https://github.com/user-attachments/assets/80c8cec9-bcb3-4672-ba4d-3bc96e67c6ae" controls width="100%"></video>
@@ -64,4 +63,6 @@
       <video src="https://github.com/user-attachments/assets/d80fdeba-beaa-4f56-b03b-d858cd5fbb7a" controls width="100%"></video>
     </td>
   </tr>
+</table>
+
 
