@@ -63,7 +63,7 @@
       <video src="https://github.com/user-attachments/assets/0db7a819-fdd3-4e26-b1f0-e41a363ee98e" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/3c5477f7-a586-411d-9573-3f36d269b253" controls width="100%"></video>
     </td>
   </tr>
 </table>
