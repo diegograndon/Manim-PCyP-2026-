@@ -1,6 +1,5 @@
 
 
-
 <table
   <!-- FILA 1 -->
   <tr>
@@ -71,10 +70,10 @@
   <!-- FILA 4 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
   <tr>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/95e3e437-131a-4663-99c9-be7c3c3ae24f" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/0ad27234-f6bf-49a6-8a11-690d3c51bd69" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
