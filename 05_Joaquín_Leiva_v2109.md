@@ -2,6 +2,7 @@
 
 
 
+
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -83,10 +84,10 @@
       <video src="https://github.com/user-attachments/assets/25e9ec8f-d812-4bbc-83f6-abc0c026483e" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/05d572d3-7a58-4e5d-9649-c955ab6dc605" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src=""100%"></video>
+      <video src="https://github.com/user-attachments/assets/5f68e4ce-3fd9-40ea-834c-4d722644d240"100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
