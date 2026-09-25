@@ -84,5 +84,26 @@
 "></video>
     </td>
   </tr>
+    <!-- FILA 4 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
+  <tr>
+    <td width="16%" align="center">
+      <video src=""></video>
+    </td>
+    <td width="16%" align="center">
+      <video src=""></video>
+    </td>
+    <td width="16%" align="center">
+      <video src=""></video>
+    </td>
+    <td width="16%" align="center">
+      <video src=""></video>
+    </td>
+    <td width="16%" align="center">
+      <video src=""></video>
+    </td>
+    <td width="16%" align="center">
+      <video src=""></video>
+    </td>
+  </tr>
 </table>
 
