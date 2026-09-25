@@ -83,9 +83,6 @@
   </tr>
 
     <!-- FILA 4
-
-https://github.com/user-attachments/assets/be98b9cc-d8ee-4830-b2c1-09697b50f367
-
  (Copias de <tr> a </tr> para cada nueva fila de 6) -->
   <tr>
     <td width="16%" align="center">
