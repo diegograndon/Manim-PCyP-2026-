@@ -59,10 +59,10 @@
       <video src="https://github.com/user-attachments/assets/e1313292-e799-4779-aab1-9d2b108110b3" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/3ad95b95-8357-4efc-be44-7be141368be4" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/9f2d4262-a510-4207-a479-1f769326579b" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/df63d2f8-d208-43ae-811d-9545a83d1f5e" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/ee3c75fc-ddb2-400d-898c-2ed5a1f80c98" controls width="100%"></video>
     </td>
 
 <tr>
