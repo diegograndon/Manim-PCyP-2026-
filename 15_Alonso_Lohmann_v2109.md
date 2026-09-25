@@ -46,7 +46,7 @@
 
 <td width="16%" align="center">
       <video src= " https://github.com/user-attachments/assets/6d600f45-49eb-455e-b711-603032b41fe4" controls width="100%"></video>
-      </td>
+   </td>
     <td width="16%" align="center">
       <video src= " https://github.com/user-attachments/assets/37c8e644-f801-41a7-a617-b24e72964dd2" controls width="100%"></video>
 
