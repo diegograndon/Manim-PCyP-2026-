@@ -10,6 +10,9 @@
 
 
 
+
+
+
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -70,10 +73,10 @@
       <video src="https://github.com/user-attachments/assets/9f515437-0cc9-4434-85de-1c4fde60a6dc" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/49c35bcc-8f7c-4efd-b405-95ab56627d9d" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/283408a1-bd96-4a54-b831-9c103ba8783a" controls width="100%"></video>
     </td>
   </tr>
 </table>
