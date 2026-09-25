@@ -80,7 +80,8 @@
 "></video>
     </td>
     <td width="16%" align="center">
-      <video src=""></video>
+      <video src="https://github.com/user-attachments/assets/377c4a5b-3239-4054-96a1-5d67aa1f0592
+"></video>
     </td>
   </tr>
 </table>
