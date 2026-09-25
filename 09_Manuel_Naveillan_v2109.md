@@ -63,7 +63,7 @@
       <video src="https://github.com/user-attachments/assets/72ed15f7-7178-401a-9ffe-2ba93ed2cd6c" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/0c1b8f0f-b756-4d76-8917-5b6a3577d5df" controls width="100%"></video>
     </td>
   </tr>
 
@@ -71,7 +71,7 @@
   <!-- FILA 4 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
   <tr>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/28b0982b-f7d2-4d99-8fa3-decd84320a69" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
