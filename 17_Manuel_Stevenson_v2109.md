@@ -1,6 +1,5 @@
 
 
-
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -57,15 +56,14 @@
       <video src="https://github.com/user-attachments/assets/a1b13f3a-3d17-4286-8ef4-d6bac9d20563" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/e6902681-1e07-4a7c-bbe5-da6d920ad4a7" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/95d82ab9-76dc-4031-9510-a66d6bfa3c0b" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/52bbee8b-38f3-455f-b80b-92f3a44ba5c6" controls width="100%"></video>
     </td>
   </tr>
 </table>
-
 
