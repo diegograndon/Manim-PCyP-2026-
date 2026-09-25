@@ -1,4 +1,10 @@
 
+
+
+
+
+
+
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -75,6 +81,73 @@
     <td width="16%" align="center">
       <video src="https://github.com/user-attachments/assets/0f35755a-8a22-4aa9-999b-5e0ba2083a0e
 " controls width="100%"></video>
+    </td>
+  </tr>
+   <tr>
+    <td width="16%" align="center">
+      <video src="https://github.com/user-attachments/assets/16e9d386-457b-4987-bb41-d3ae28302116
+" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="https://github.com/user-attachments/assets/3d198213-08c3-461e-9b9e-3bee651d0711
+" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="https://github.com/user-attachments/assets/627ce8b5-da4e-48ef-88d9-c09862e58d62
+" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="https://github.com/user-attachments/assets/a274445a-dace-46e3-a9d2-b542864b84ba
+" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="https://github.com/user-attachments/assets/dd6e1e21-abb3-4f05-841f-1705910c70e8
+" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="https://github.com/user-attachments/assets/0f35755a-8a22-4aa9-999b-5e0ba2083a0e
+" controls width="100%"></video>
+    </td>
+  </tr>
+   <!-- FILA 4 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
+  <tr>
+    <td width="16%" align="center">
+      <video src="https://github.com/user-attachments/assets/8022499c-0d52-4d81-aa4b-d2735601c5f8" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="https://github.com/user-attachments/assets/b4931447-5160-4ad7-91d0-6a40a8924222" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+  </tr>
+   <tr>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
     </td>
   </tr>
 </table>
