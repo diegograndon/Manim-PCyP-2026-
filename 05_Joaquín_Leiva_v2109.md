@@ -4,10 +4,6 @@
 
 
 
-
-
-
-
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -75,7 +71,7 @@
 " controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/cad12151-03cc-48dc-9879-2085d04374c8" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/fbcb3790-1b9e-4b6a-a6f1-6c9c0b39650f"100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
