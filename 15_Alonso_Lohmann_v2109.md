@@ -43,11 +43,6 @@
     </td>
   </tr>
 </table>
-
-<td width="16%" align="center">
-    <video src= "https://github.com/user-attachments/assets/6d600f45-49eb-455e-b711-603032b41fe4" controls width="100%"></video>
-  
-<!-- FILA 3 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
   </td>
     <td width="16%" align="center">
       <video src= "https://github.com/user-attachments/assets/34f50243-5ac2-45b4-b101-e624f2147eed" controls width="100%"></video>
