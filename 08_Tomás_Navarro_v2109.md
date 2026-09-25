@@ -1,6 +1,5 @@
 
 
-
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -63,7 +62,7 @@
       <video src="https://github.com/user-attachments/assets/cfbe3e36-b133-407e-bc91-4714a46a5ba0" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/1820678f-3052-4f0a-b55f-d176f73c4238" controls width="100%"></video>
     </td>
   </tr>
 </table>
