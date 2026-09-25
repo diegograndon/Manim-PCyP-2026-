@@ -68,27 +68,6 @@
     </td>
   </tr>
 
-  <!-- FILA 2 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
-  <tr>
-    <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/16d0a252-d503-4db4-b1c5-57cc064a09a7" controls width="100%"></video>
-    </td>
-    <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/e0a08259-3a43-4c71-9b2c-b41977c263a2" controls width="100%"></video>
-    </td>
-    <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/1389ccc7-c324-48f3-b452-03a6502c25c9" controls width="100%"></video>
-    </td>
-    <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/f10ad575-2cba-4a45-9cf0-87e8a8cd99af" controls width="100%"></video>
-    </td>
-    <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/cc35f0de-eb30-4597-a944-88d09d97924e" controls width="100%"></video>
-    </td>
-    <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/7dd0e867-4152-4e0a-801e-6786af58bcf7" controls width="100%"></video>
-    </td>
-  </tr>
    <!-- FILA 4 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
   <tr>
     <td width="16%" align="center">
