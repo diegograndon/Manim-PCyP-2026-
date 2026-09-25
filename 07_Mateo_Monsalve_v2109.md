@@ -87,7 +87,8 @@
     <!-- FILA 4 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
   <tr>
     <td width="16%" align="center">
-      <video src=""></video>
+      <video src="https://github.com/user-attachments/assets/4e8493d5-daa0-4afa-8115-0eba70bfbac4
+"></video>
     </td>
     <td width="16%" align="center">
       <video src=""></video>
