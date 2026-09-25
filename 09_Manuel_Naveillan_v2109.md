@@ -45,30 +45,7 @@
       <video src="https://github.com/user-attachments/assets/d2d1559a-bb11-4f53-b565-acc66cabedd6" controls width="100%"></video>
     </td>
   </tr>
-
-  
-  <!-- FILA 4 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
-  <tr>
-    <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
-    </td>
-    <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/3e2b4d19-3752-4d1b-915b-261e71166ade" controls width="100%"></video>
-    </td>
-    <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
-    </td>
-    <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
-    </td>
-    <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
-    </td>
-    <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
-    </td>
-  </tr>
-  <!-- FILA 3 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
+   <!-- FILA 3 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
   <tr>
     <td width="16%" align="center">
       <video src="https://github.com/user-attachments/assets/20e53ec0-b076-43ed-a778-eee76b6d3161" controls width="100%"></video>
@@ -83,12 +60,36 @@
       <video src="https://github.com/user-attachments/assets/ca456f34-cab6-4aab-92a8-d12641bbbcf3" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/3e2b4d19-3752-4d1b-915b-261e71166ade" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/72ed15f7-7178-401a-9ffe-2ba93ed2cd6c" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
     </td>
   </tr>
+
+  
+  <!-- FILA 4 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
+  <tr>
+    <td width="16%" align="center">
+      <video src="https://github.com/user-attachments/assets/3e2b4d19-3752-4d1b-915b-261e71166ade" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+  </tr>
+ 
 </table>
 
 
