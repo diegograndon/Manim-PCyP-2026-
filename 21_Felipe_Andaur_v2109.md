@@ -76,7 +76,7 @@
       <video src="https://github.com/user-attachments/assets/abadf8d7-cb2a-4362-8f69-647c88d802dc"></video>
     </td>
     <td width="16%" align="center">
-      <video src=""></video>
+      <video src="https://github.com/user-attachments/assets/0d2b196d-3cdf-452d-b997-d23de0f504bc"></video>
     </td>
     <td width="16%" align="center">
       <video src=""></video>
