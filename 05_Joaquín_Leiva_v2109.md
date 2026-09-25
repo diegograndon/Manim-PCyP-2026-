@@ -71,15 +71,16 @@
 " controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/fbcb3790-1b9e-4b6a-a6f1-6c9c0b39650f"100%"></video>
+      <video src="https://github.com/user-attachments/assets/7626aa9c-1684-43d1-b2f2-9dfad7383126
+"100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/cee16cda-fe1b-4b64-ab11-1b523b035c8b" controls width="100%"></video>
     </td>
   </tr>
 
-    <!-- FILA 4
-  <tr>
+   
+  <tr>    
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
     </td>
