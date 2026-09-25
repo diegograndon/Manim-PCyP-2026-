@@ -66,6 +66,49 @@
       <video src="https://github.com/user-attachments/assets/3c5477f7-a586-411d-9573-3f36d269b253" controls width="100%"></video>
     </td>
   </tr>
+  
+    <!-- FILA 4 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
+  <tr>
+    <td width="16%" align="center">
+      <video src="https://github.com/user-attachments/assets/6d6c85cb-8cf0-4978-b49f-345c703cdeb8"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="https://github.com/user-attachments/assets/abadf8d7-cb2a-4362-8f69-647c88d802dc"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src=""></video>
+    </td>
+    <td width="16%" align="center">
+      <video src=""></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+  </tr>
+      <!-- FILA 5 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
+  <tr>
+    <td width="16%" align="center">
+      <video src=""></video>
+    </td>
+    <td width="16%" align="center">
+      <video src=""></video>
+    </td>
+    <td width="16%" align="center">
+      <video src=""></video>
+    </td>
+    <td width="16%" align="center">
+      <video src=""></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+  </tr>
 </table>
 
 
