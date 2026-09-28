@@ -8,6 +8,8 @@
 
 
 
+
+
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -124,10 +126,10 @@
       <video src="https://github.com/user-attachments/assets/3389992f-4ef3-46bb-8037-4d278fc99eb2" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/0a08bd48-dcde-4be0-91fb-5df108bca96c" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/ef308390-b71a-4994-b46d-8c2480806b7c" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
