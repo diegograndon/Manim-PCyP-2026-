@@ -2,49 +2,126 @@
   <!-- FILA 1 -->
   <tr>
     <td width="16%" align="center">
-      <video src = "https://github.com/user-attachments/assets/5d004ec5-c0f2-447c-a1b0-7af094f847b6"  controls width="100%"></video>
+      <video src="" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src =   controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/37ef41fd-6b02-4e7e-b26e-101ab492743e" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src=    controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/819ee25a-0499-4991-8623-c2f7b480c122" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src=   controls width="100%"></video>
+      <video src="" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src=   controls width="100%"></video>
+      <video src="" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src=    controls width="100%"></video>
+      <video src="" controls width="100%"></video>
     </td>
   </tr>
 
   <!-- FILA 2 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
   <tr>
     <td width="16%" align="center">
-      <video src=    controls width="100%"></video>
+      <video src="" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src=    controls width="100%"></video>
+      <video src="" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src=    controls width="100%"></video>
+      <video src="" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src=  controls width="100%"></video>
+      <video src="" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src= controls width="100%"></video>
+      <video src="" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src=  controls width="100%"></video>
+      <video src="" controls width="100%"></video>
+    </td>
+  </tr>
+   <!-- FILA 3 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
+  <tr>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src=  controls width="100%"></video
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+  </tr>
+   <tr>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+  </tr>
+   <!-- FILA 4 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
+  <tr>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+  </tr>
+   <tr>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
   </tr>
 </table>
-  </td>
-    
-
