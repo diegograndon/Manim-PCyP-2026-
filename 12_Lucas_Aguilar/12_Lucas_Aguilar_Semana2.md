@@ -1,7 +1,4 @@
 
-
-
-
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -12,7 +9,7 @@
       <video src="https://github.com/user-attachments/assets/37ef41fd-6b02-4e7e-b26e-101ab492743e" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/819ee25a-0499-4991-8623-c2f7b480c122" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
