@@ -3,6 +3,9 @@
 
 
 
+
+
+
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -90,10 +93,12 @@
       <video src="https://github.com/user-attachments/assets/5f68e4ce-3fd9-40ea-834c-4d722644d240"100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/4d6d5060-7c27-4574-8fe5-3cee9a581dbb
+" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/85bf0c89-42b7-44e1-9824-ed0a1dfa588e
+" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
