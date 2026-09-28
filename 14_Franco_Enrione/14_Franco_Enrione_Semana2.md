@@ -20,5 +20,27 @@
       <video src="" controls width="100%"></video>
     </td>
   </tr>
+
+   <!-- FILA 2 -->
+  <tr>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+  </tr>
 </table>
 
