@@ -30,10 +30,12 @@
    <!-- FILA 2 -->
   <tr>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/b12d8269-91d8-46fd-9b02-0b247b65c9b9
+" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/4aa5e7f2-666c-417a-8940-0d061a18d858
+" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
