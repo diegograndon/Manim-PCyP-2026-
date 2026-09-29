@@ -6,7 +6,6 @@
 
 
 
-
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -20,19 +19,18 @@
       <video src="https://github.com/user-attachments/assets/848b14ad-7579-49ce-8ee7-960bb5977ca4" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/160b8563-7a71-43ea-9b3a-75d6553a7a5c
-" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/030e5cae-8277-43e7-8f4a-16911e491c42" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/fb2a6b4d-333b-44cd-9149-5e8bcb9769a0" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/ef2467d5-f048-46a1-b8ab-3ba670b5f0f9" controls width="100%"></video>
     </td>
   </tr>
 
-    <!-- FILA 2 -->
-  <tr>
+   
+  <tr> <!-- FILA 2 -->
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
     </td>
