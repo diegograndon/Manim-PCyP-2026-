@@ -6,6 +6,8 @@
 
 
 
+
+
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -32,10 +34,10 @@
    
   <tr> <!-- FILA 2 -->
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/cb151314-77c3-4295-acd4-773b4051cecd" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/9d2b95e7-b232-4356-ab03-71ae0cb127f9" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
