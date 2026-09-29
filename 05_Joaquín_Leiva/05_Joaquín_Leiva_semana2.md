@@ -7,9 +7,6 @@
 
 
 
-
-
-
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -21,6 +18,29 @@
     </td>
     <td width="16%" align="center">
       <video src="https://github.com/user-attachments/assets/848b14ad-7579-49ce-8ee7-960bb5977ca4" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="https://github.com/user-attachments/assets/160b8563-7a71-43ea-9b3a-75d6553a7a5c
+" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+  </tr>
+
+    <!-- FILA 2 -->
+  <tr>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
