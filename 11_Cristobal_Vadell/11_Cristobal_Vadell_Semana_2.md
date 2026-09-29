@@ -15,20 +15,20 @@
       <video src="https://github.com/user-attachments/assets/f48e41c3-e2d4-4350-965a-02e905f8f20d" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/42b90047-0690-4787-9ce0-e25e5dbbf37e" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/b4e038ed-003f-4529-84a6-508cb8fab37b" controls width="100%"></video>
     </td>
   </tr>
 
   <!-- FILA 2 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
   <tr>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/ce810e93-a472-4c3b-9032-5eb16f301337" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/a5ea3bfc-1571-40d7-8f3e-b9fbad81c57a" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
