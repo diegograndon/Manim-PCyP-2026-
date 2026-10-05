@@ -41,49 +41,49 @@
       <video src="https://github.com/user-attachments/assets/9f86a6e1-57fb-41f9-98a6-e8f02a118961" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/44f20b38-5380-4d15-9842-0db613c36c74" width="140" controls></video>
+      <video src="https://github.com/user-attachments/assets/44f20b38-5380-4d15-9842-0db613c36c74" controls width="100%></video>
     </td>
   </tr>
   <!-- FILA 3 -->
   <tr>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/42cb7ae8-0dc7-4f83-89a8-5b68beff082a" width="140" controls></video>
+      <video src="https://github.com/user-attachments/assets/42cb7ae8-0dc7-4f83-89a8-5b68beff082a" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/ee4fa849-58dd-40ac-90aa-ee7be7a94a62" width="140" controls></video>
+      <video src="https://github.com/user-attachments/assets/ee4fa849-58dd-40ac-90aa-ee7be7a94a62" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/ed389359-7940-4a70-b0cb-90a9b366b638" width="140" controls></video>
+      <video src="https://github.com/user-attachments/assets/ed389359-7940-4a70-b0cb-90a9b366b638" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/e4f8e4b7-0bdb-459c-a556-f5fd9de3cfb2" width="140" controls></video>
+      <video src="https://github.com/user-attachments/assets/e4f8e4b7-0bdb-459c-a556-f5fd9de3cfb2" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/c2eb40cc-218d-4358-8e95-8440a31a5c0d" width="140" controls></video>
+      <video src="https://github.com/user-attachments/assets/c2eb40cc-218d-4358-8e95-8440a31a5c0d" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/8b636b59-1d5c-4dd5-b24f-947b186b10a0" width="140" controls></video>
+      <video src="https://github.com/user-attachments/assets/8b636b59-1d5c-4dd5-b24f-947b186b10a0" controls width="100%"></video>
     </td>
   </tr>
     <!-- FILA 4 -->
   <tr>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/d58fff5e-1aaf-496d-8a98-19dc1578c72c" width="140" controls></video>
+      <video src="https://github.com/user-attachments/assets/d58fff5e-1aaf-496d-8a98-19dc1578c72c" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/1f351512-9926-4cce-9022-b3ee7df1918c" width="140" controls></video>
+      <video src="https://github.com/user-attachments/assets/1f351512-9926-4cce-9022-b3ee7df1918c" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" width="140" controls></video>
+      <video src="" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" width="140" controls></video>
+      <video src="" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" width="140" controls></video>
+      <video src="" controls="1o0%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" width="140" controls></video>
+      <video src="" controls width="100%"></video>
     </td>
   </tr>
 </table>
