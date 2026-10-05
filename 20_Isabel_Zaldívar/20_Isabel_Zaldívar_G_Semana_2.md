@@ -6,13 +6,13 @@
   <!-- FILA 1 -->
   <tr>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/909d6496-945a-40c4-bd94-6d948f5bc076" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/9740dedf-1a3f-427c-bed2-05b1b70748e1" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/65d0cdf0-df88-4995-9eed-8fdc55fdc92d" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
