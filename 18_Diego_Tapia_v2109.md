@@ -74,7 +74,7 @@
       <video src="https://github.com/user-attachments/assets/bef32ec9-38f3-4b5d-9adb-af3e1e7afb17" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/55357d65-225d-4021-8af2-7389b7cebec6" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
