@@ -63,6 +63,6 @@
     </td>
     <td align="center" valign="top" width="16%">
     </td>
-      <video src="https://github.com/user-attachments/assets/eac805ff-cc6e-4a5d-bfb0-a3e4e5700a0a" width="140" controls></video>
+      <video src="" width="140" controls></video>
   </tr>
 </table>
