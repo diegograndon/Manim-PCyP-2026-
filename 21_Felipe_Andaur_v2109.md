@@ -79,10 +79,10 @@
       <video src="https://github.com/user-attachments/assets/0d2b196d-3cdf-452d-b997-d23de0f504bc"></video>
     </td>
     <td width="16%" align="center">
-      <video src=""></video>
+      <video src="https://github.com/user-attachments/assets/055aca5e-5fc2-4a46-b2c0-bcac30c78124"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/2143b8a4-8c8c-4211-ac6c-777566b683c9" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="" controls width="100%"></video>
