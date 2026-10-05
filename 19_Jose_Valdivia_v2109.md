@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/c2eb40cc-218d-4358-8e95-8440a31a5c0d
+
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -53,10 +57,10 @@
       <video src="https://github.com/user-attachments/assets/ed389359-7940-4a70-b0cb-90a9b366b638" width="140" controls></video>
     </td>
     <td align="center" valign="top" width="16%">
-      <!-- Espacio vacío o video faltante -->
+      <video src="https://github.com/user-attachments/assets/e4f8e4b7-0bdb-459c-a556-f5fd9de3cfb2" width="140" controls></video>
     </td>
     <td align="center" valign="top" width="16%">
-      <video src="https://github.com/user-attachments/assets/e4f8e4b7-0bdb-459c-a556-f5fd9de3cfb2" width="140" controls></video>
+      <video src="https://github.com/user-attachments/assets/c2eb40cc-218d-4358-8e95-8440a31a5c0d" width="140" controls></video>
     </td>
     <td align="center" valign="top" width="16%">
     </td>
