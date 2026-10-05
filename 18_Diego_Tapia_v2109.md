@@ -54,7 +54,7 @@
       <video src="https://github.com/user-attachments/assets/08b6a56a-52bd-4c63-ba46-19400071a5ec" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="https://github.com/user-attachments/assets/05f378df-9e5a-45ef-911d-1d73d911f736" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/9dfbff6a-3d45-420d-9556-377af9eccc50" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
       <video src="https://github.com/user-attachments/assets/6cf3f3bc-3e8f-49ae-8a50-b9180385f047" controls width="100%"></video>
