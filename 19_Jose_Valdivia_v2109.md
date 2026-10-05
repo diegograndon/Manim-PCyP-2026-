@@ -4,22 +4,22 @@
 <table>
   <!-- FILA 1 -->
   <tr>
-    <td align="center" valign="top" width="16%">
+    <td align="center" valign="top" width="15%">
       <video src="https://github.com/user-attachments/assets/8028744a-7e28-4815-8a87-8471aff3cdde" width="140" controls></video>
     </td>
-    <td align="center" valign="top" width="16%">
+    <td align="center" valign="top" width="15%">
       <video src="https://github.com/user-attachments/assets/53826148-387b-45e8-8f12-bb231ed36222" width="140" controls></video>
     </td>
-    <td align="center" valign="top" width="16%">
+    <td align="center" valign="top" width="15%">
       <video src="https://github.com/user-attachments/assets/65ac600e-bf54-4a7b-9f93-3f56fed73fb0" width="140" controls></video>
     </td>
-    <td align="center" valign="top" width="16%">
+    <td align="center" valign="top" width="15%">
       <video src="https://github.com/user-attachments/assets/93be249f-8f8b-4970-a676-e95ba5c59fe3" width="140" controls></video>
     </td>
-    <td align="center" valign="top" width="16%">
+    <td align="center" valign="top" width="15%">
       <video src="https://github.com/user-attachments/assets/c4433610-fdcc-456e-9740-aa939fa23887" width="140" controls></video>
     </td>
-    <td align="center" valign="top" width="16%">
+    <td align="center" valign="top" width="15%">
       <video src="https://github.com/user-attachments/assets/15e10298-18c2-4330-9906-a447c9f0d15a" width="140" controls></video>
     </td>
   </tr>
