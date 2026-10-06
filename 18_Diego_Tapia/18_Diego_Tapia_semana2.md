@@ -1,4 +1,10 @@
 
+
+
+https://github.com/user-attachments/assets/59be039e-42ba-4487-8257-ad46e5f5505b
+
+
+
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -12,12 +18,12 @@
       <video src="https://github.com/user-attachments/assets/b54b8535-c7bb-4e36-947f-444fb3a06267" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/4710896f-8017-4d86-bf20-ec436e53b58a" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/d57ff441-fa26-4b2e-adde-1f7f07cdd61a" controls width="100%"></video>
     </td>
     <td width="16%" align="center">
-      <video src="" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/59be039e-42ba-4487-8257-ad46e5f5505b" controls width="100%"></video>
     </td>
   </tr>
