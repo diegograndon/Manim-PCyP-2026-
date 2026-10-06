@@ -1,10 +1,4 @@
 
-
-
-https://github.com/user-attachments/assets/59be039e-42ba-4487-8257-ad46e5f5505b
-
-
-
 <table>
   <!-- FILA 1 -->
   <tr>
