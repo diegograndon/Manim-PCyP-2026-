@@ -21,3 +21,24 @@
       <video src="https://github.com/user-attachments/assets/59be039e-42ba-4487-8257-ad46e5f5505b" controls width="100%"></video>
     </td>
   </tr>
+  <!-- FILA 2 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
+  <tr>
+    <td width="16%" align="center">
+      <video src="https://github.com/user-attachments/assets/f6893b98-882f-4b02-a514-b5d496db3a31" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="https://github.com/user-attachments/assets/79f9b5c7-8a44-4c94-b02e-f14fcb927b50" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+    <td width="16%" align="center">
+      <video src="" controls width="100%"></video>
+    </td>
+  </tr>
