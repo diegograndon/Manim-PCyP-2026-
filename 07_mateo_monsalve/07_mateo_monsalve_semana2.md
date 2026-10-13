@@ -1,6 +1,5 @@
 
 
-
 <table>
   <!-- FILA 1 -->
   <tr>
@@ -21,20 +20,24 @@
 "></video>
     </td>
     <td width="16%" align="center">
-      <video src=""></video>
+      <video src="https://github.com/user-attachments/assets/c0aa6a8d-9c61-41d1-9536-f4ea7f7da0b1
+"></video>
     </td>
     <td width="16%" align="center">
-      <video src=""></video>
+      <video src="https://github.com/user-attachments/assets/13301148-62cb-4837-b10a-b0dffc8abff2
+"></video>
     </td>
   </tr>
 
   <!-- FILA 2 (Copias de <tr> a </tr> para cada nueva fila de 6) -->
   <tr>
     <td width="16%" align="center">
-      <video src=""></video>
+      <video src="https://github.com/user-attachments/assets/5f873c4c-fdac-42f3-9ae8-a0bbf873cde3
+"></video>
     </td>
     <td width="16%" align="center">
-      <video src=""></video>
+      <video src="https://github.com/user-attachments/assets/bf554611-26d3-4f83-b154-8c7ca7769e2d
+"></video>
     </td>
     <td width="16%" align="center">
       <video src=""></video>
