@@ -1,1 +1,195 @@
 
+
+%%manim -qm -r 720,1280 SumaAngulosTriangulo
+
+from manim import *
+import numpy as np
+
+class SumaAngulosTriangulo(Scene):
+    def construct(self):
+        # Formato vertical
+        self.camera.background_color = "#101020"
+        ROSADO = "#FF69B4"
+        MORADO = "#B388FF"
+        CELESTE = "#63D9FF"
+        BLANCO = "#FFFFFF"
+        AMARILLO = "#FFE082"
+
+        # Título
+        titulo = Text(
+            "Suma de ángulos\ninteriores de un triángulo",
+            font_size=34,
+            color=BLANCO,
+            weight=BOLD,
+            line_spacing=1.2
+        ).move_to(UP * 5.4)
+
+        self.play(Write(titulo), run_time=2)
+        self.wait(1)
+
+        # Vértices del triángulo
+        A = np.array([-2.5, -1.5, 0])
+        B = np.array([2.5, -1.5, 0])
+        C = np.array([0.45, 1.5, 0])
+
+        triangulo = Polygon(
+            A, B, C,
+            color=BLANCO,
+            stroke_width=5
+        )
+
+        def angulo(p1, centro, p2, color, radio=0.55):
+            a1 = np.arctan2(
+                p1[1] - centro[1],
+                p1[0] - centro[0]
+            )
+            a2 = np.arctan2(
+                p2[1] - centro[1],
+                p2[0] - centro[0]
+            )
+            amplitud = (a2 - a1) % (2 * np.pi)
+
+            return Sector(
+                arc_center=centro,
+                outer_radius=radio,
+                start_angle=a1,
+                angle=amplitud,
+                color=color,
+                fill_opacity=0.65,
+                stroke_width=0
+            )
+
+        # Los tres ángulos interiores
+        alfa = angulo(B, A, C, ROSADO)
+        beta = angulo(C, B, A, MORADO)
+        gamma = angulo(A, C, B, CELESTE)
+
+        self.play(Create(triangulo), run_time=2)
+        self.play(
+            FadeIn(alfa),
+            FadeIn(beta),
+            FadeIn(gamma),
+            run_time=1.5
+        )
+
+        texto1 = Text(
+            "Tres ángulos interiores",
+            font_size=28,
+            color=BLANCO
+        ).move_to(DOWN * 3.4)
+
+        self.play(FadeIn(texto1))
+        self.wait(1.5)
+
+        # Recta paralela a la base por el vértice C
+        recta = Line(
+            [-3.2, C[1], 0],
+            [3.2, C[1], 0],
+            color=AMARILLO,
+            stroke_width=4
+        )
+
+        self.play(FadeOut(texto1))
+        self.play(Create(recta), run_time=2)
+
+        texto2 = Text(
+            "Recta paralela a la base",
+            font_size=26,
+            color=AMARILLO
+        ).move_to(DOWN * 3.4)
+
+        self.play(Write(texto2))
+        self.wait(1.5)
+
+        # Ángulos alternos internos junto al vértice superior
+        izquierda = C + LEFT
+        derecha = C + RIGHT
+
+        alfa_superior = angulo(
+            izquierda, C, A, ROSADO, 0.75
+        )
+        beta_superior = angulo(
+            B, C, derecha, MORADO, 0.75
+        )
+
+        self.play(FadeOut(texto2))
+
+        # Se copian los ángulos para mostrar su igualdad
+        self.play(
+            TransformFromCopy(alfa, alfa_superior),
+            run_time=2
+        )
+        self.play(
+            TransformFromCopy(beta, beta_superior),
+            run_time=2
+        )
+
+        texto3 = Text(
+            "Ángulos alternos internos\nson iguales",
+            font_size=27,
+            color=BLANCO
+        ).move_to(DOWN * 3.5)
+
+        self.play(Write(texto3))
+        self.wait(2)
+
+        # Los tres ángulos forman un ángulo llano
+        self.play(FadeOut(texto3))
+
+        self.play(
+            Indicate(alfa_superior, color=ROSADO),
+            Indicate(gamma, color=CELESTE),
+            Indicate(beta_superior, color=MORADO),
+            run_time=2
+        )
+
+        texto4 = Text(
+            "Juntos forman un ángulo llano",
+            font_size=27,
+            color=BLANCO
+        ).move_to(DOWN * 3.4)
+
+        self.play(Write(texto4))
+
+        grados = MathTex(
+            r"180^\circ",
+            font_size=65,
+            color=AMARILLO
+        ).move_to(DOWN * 4.3)
+
+        self.play(Write(grados), run_time=1.5)
+        self.wait(2)
+
+        # Fórmula final
+        self.play(
+            FadeOut(texto4),
+            FadeOut(grados)
+        )
+
+        formula = MathTex(
+            r"\alpha",
+            "+",
+            r"\beta",
+            "+",
+            r"\gamma",
+            "=",
+            r"180^\circ",
+            font_size=52
+        ).move_to(DOWN * 3.8)
+
+        formula[0].set_color(ROSADO)
+        formula[2].set_color(MORADO)
+        formula[4].set_color(CELESTE)
+        formula[6].set_color(AMARILLO)
+
+        self.play(Write(formula), run_time=2.5)
+
+        conclusion = Text(
+            "¡Propiedad demostrada!",
+            font_size=28,
+            color=BLANCO,
+            weight=BOLD
+        ).move_to(DOWN * 5)
+
+        self.play(FadeIn(conclusion))
+        self.wait(3)
